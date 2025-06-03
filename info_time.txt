@@ -1,0 +1,90 @@
+Datasets100:
+1. Linear search time: 3.6417e-05
+2. Binary search tree time: 1.9791e-05
+3. RB Tree search time: 6.67e-07
+4. HASH search time: 9.17e-07
+Collisions: 5
+5. Multimap time: 3.125e-06
+
+
+Datasets200:
+1. Linear search time: 3.85e-05
+2. Binary search tree time: 8e-06
+3. RB Tree search time: 9.59e-07
+4. HASH search time: 5.42e-07
+Collisions: 5
+5. Multimap time: 2.708e-06
+
+
+Datasets500:
+1. Linear search time: 5.9167e-05
+2. Binary search tree time: 7.417e-06
+3. RB Tree search time: 3.33e-07
+4. HASH search time: 3.75e-07
+Collisions: 5
+5. Multimap time: 2.958e-06
+
+
+Datasets1000:
+1. Linear search time: 8.3833e-05
+2. Binary search tree time: 1.55e-05
+3. RB Tree search time: 7.08e-07
+4. HASH search time: 2.92e-07
+Collisions: 5
+5. Multimap time: 2.125e-06
+
+
+Datasets2000:
+1. Linear search time: 9.0208e-05
+2. Binary search tree time: 1.1791e-05
+3. RB Tree search time: 3.75e-07
+4. HASH search time: 2.09e-07
+Collisions: 5
+5. Multimap time: 1.75e-06
+
+
+Datasets5000:
+1. Linear search time: 0.000190083
+2. Binary search tree time: 1.8583e-05
+3. RB Tree search time: 1.67e-07
+4. HASH search time: 2.08e-07
+Collisions: 5
+5. Multimap time: 1.75e-06
+
+
+Datasets10000:
+1. Linear search time: 0.000504542
+2. Binary search tree time: 4.2791e-05
+3. RB Tree search time: 3.75e-07
+4. HASH search time: 1.67e-07
+Collisions: 5
+5. Multimap time: 2.209e-06
+
+
+Datasets20000:
+1. Linear search time: 0.000895459
+2. Binary search tree time: 6.8625e-05
+3. RB Tree search time: 4.58e-07
+4. HASH search time: 1.67e-07
+Collisions: 5
+5. Multimap time: 2e-06
+
+
+Datasets50000:
+1. Linear search time: 0.00230658
+2. Binary search tree time: 0.000179375
+3. RB Tree search time: 4.58e-07
+4. HASH search time: 2.09e-07
+Collisions: 5
+5. Multimap time: 2.5e-06
+
+
+Datasets100000:
+1. Linear search time: 0.00503071
+2. Binary search tree time: 0.000446458
+3. RB Tree search time: 5e-07
+4. HASH search time: 2.08e-07
+Collisions: 5
+5. Multimap time: 2.75e-06
+
+
